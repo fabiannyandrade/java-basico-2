@@ -21,6 +21,11 @@ public class Main {
 		int valorComCast = (int) valor;
 		
 		System.out.println(" O valor com casas:" + valor + "| Valor inteiro:" + valorComCast);
+		
+		int novoValor = 10;
+		double valorConvertido = novoValor;
+		
+		System.out.println("Novo:"+ novoValor +"| Valor convertido:"+ valorConvertido);
 	}
 
 }
